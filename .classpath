@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="resource"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/Jar Files/ashot-1.5.4.jar"/>
+	<classpathentry kind="lib" path="D:/Jar Files/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="D:/Jar Files/commons-collections4-4.0.jar"/>
+	<classpathentry kind="lib" path="D:/Jar Files/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Jar Files/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="D:/Jar Files/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Jar Files/dom4j-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Jar Files/guice-4.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/Jar Files/guice-4.2.2-no_aop.jar"/>
+	<classpathentry kind="lib" path="D:/Jar Files/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Jar Files/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Jar Files/JSErrorCollector-0.5.jar"/>
+	<classpathentry kind="lib" path="D:/Jar Files/log4j.jar"/>
+	<classpathentry kind="lib" path="D:/Jar Files/log4j-1.2.13.jar"/>
+	<classpathentry kind="lib" path="D:/Jar Files/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/Jar Files/mysql-connector-java-8.0.19.jar"/>
+	<classpathentry kind="lib" path="D:/Jar Files/poi-4.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Jar Files/poi-examples-4.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Jar Files/poi-excelant-4.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Jar Files/poi-ooxml-4.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Jar Files/poi-ooxml-schemas-4.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Jar Files/poi-scratchpad-4.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Jar Files/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="D:/Jar Files/sikulixlibswin-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Jar Files/sikulixsetup-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Jar Files/slf4j-api-1.7.7.jar"/>
+	<classpathentry kind="lib" path="D:/Jar Files/slf4j-log4j12-1.7.7.jar"/>
+	<classpathentry kind="lib" path="D:/Jar Files/testng-6.14.3.jar"/>
+	<classpathentry kind="lib" path="D:/Jar Files/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
